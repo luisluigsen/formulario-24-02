@@ -1,0 +1,6 @@
+body{
+    background: dodgerblue;
+}
+.gradiente{
+        background: linear-gradient(to bottom right, blue, white);
+    }
