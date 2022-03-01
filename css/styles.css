@@ -4,3 +4,7 @@ body{
 .gradiente{
         background: linear-gradient(to bottom right, blue, white);
     }
+
+.alerta-error{
+    color: red;
+}
